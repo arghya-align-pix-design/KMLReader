@@ -1,0 +1,90 @@
+body {
+  margin: 5%;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden; /* Prevent horizontal scroll issues */
+  align-items: center;
+    /* font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 1rem;
+    /*width: 50%;*/
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4; */
+  }
+  
+  .HeadForm{
+    display:Absolute;
+    margin-top: 50px;
+   /* display:relative;*/
+    width: 100%;
+    min-height: 50px; /* Prevent shifting */
+  }
+
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin:5%;
+    display: flex;
+    flex-direction: column;
+    min-height: 20%;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .summary-container {
+    position: relative; /* Ensures it stays within the normal layout */
+    max-height: 300px;  /* Adjust based on your needs */
+    overflow-y: auto;   /* Enables scrolling if content is too long */    
+    background: white;  /* Ensure visibility */
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 5%;
+  }
+  
+  input[type="file"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  pre {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    max-width: 600px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+  }
+  
+  .map-container {
+      height: 300px; /* Reduce height */
+      width: 80%; /* Keep width manageable */
+      max-width: 800px; /* Adjust max width */
+      margin: 20px auto; /* Center the map horizontally */
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f8f9fa;
+    
+    
+    /* height: 70%;
+    width: 90%;
+    align-self: center;
+    max-width: 1000px;
+    margin-left: 10%;
+    align-items: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden; */
+  }
+  
