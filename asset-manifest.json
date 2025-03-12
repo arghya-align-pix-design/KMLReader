@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arghya-align-pix-design/KMLReader.git/static/css/main.0d32f361.css",
-    "main.js": "/arghya-align-pix-design/KMLReader.git/static/js/main.7ba7ba95.js",
-    "static/js/453.fcc90eae.chunk.js": "/arghya-align-pix-design/KMLReader.git/static/js/453.fcc90eae.chunk.js",
-    "index.html": "/arghya-align-pix-design/KMLReader.git/index.html",
-    "main.0d32f361.css.map": "/arghya-align-pix-design/KMLReader.git/static/css/main.0d32f361.css.map",
-    "main.7ba7ba95.js.map": "/arghya-align-pix-design/KMLReader.git/static/js/main.7ba7ba95.js.map",
-    "453.fcc90eae.chunk.js.map": "/arghya-align-pix-design/KMLReader.git/static/js/453.fcc90eae.chunk.js.map"
+    "main.css": "/KMLReader/static/css/main.0d32f361.css",
+    "main.js": "/KMLReader/static/js/main.da2c987c.js",
+    "static/js/453.fcc90eae.chunk.js": "/KMLReader/static/js/453.fcc90eae.chunk.js",
+    "index.html": "/KMLReader/index.html",
+    "main.0d32f361.css.map": "/KMLReader/static/css/main.0d32f361.css.map",
+    "main.da2c987c.js.map": "/KMLReader/static/js/main.da2c987c.js.map",
+    "453.fcc90eae.chunk.js.map": "/KMLReader/static/js/453.fcc90eae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d32f361.css",
-    "static/js/main.7ba7ba95.js"
+    "static/js/main.da2c987c.js"
   ]
 }
