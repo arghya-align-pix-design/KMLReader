@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arghya-align-pix-design/KMLReader.git/static/css/main.0d32f361.css",
+    "main.js": "/arghya-align-pix-design/KMLReader.git/static/js/main.5eca97b3.js",
+    "static/js/453.fcc90eae.chunk.js": "/arghya-align-pix-design/KMLReader.git/static/js/453.fcc90eae.chunk.js",
+    "index.html": "/arghya-align-pix-design/KMLReader.git/index.html",
+    "main.0d32f361.css.map": "/arghya-align-pix-design/KMLReader.git/static/css/main.0d32f361.css.map",
+    "main.5eca97b3.js.map": "/arghya-align-pix-design/KMLReader.git/static/js/main.5eca97b3.js.map",
+    "453.fcc90eae.chunk.js.map": "/arghya-align-pix-design/KMLReader.git/static/js/453.fcc90eae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d32f361.css",
+    "static/js/main.5eca97b3.js"
+  ]
+}
